@@ -22,3 +22,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+<!-- https://auth0.com/blog/beginner-vuejs-tutorial-with-user-login/#Building-Application-Components folowed this tutorial for the setup -->
